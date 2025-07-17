@@ -38,8 +38,7 @@
     <div class="container mx-auto">
       <h2 class="text-3xl font-bold text-blue-800 mb-3 animate-pulse">Welcome to Your Market!</h2>
       <p class="mb-5 text-lg text-gray-700 leading-relaxed">Your one-stop destination for quality clothes and shoes, delivered right to your doorstep. Explore our collection and elevate your style!</p>
-      <a href="#order" class="bg-blue-600 text-white px-8 py-3 rounded-lg text-lg font-semibold hover:bg-blue-700 focus:outline-none focus:ring-4 focus:ring-blue-300 transition duration-300 btn-primary">Order Your Favorites Today!</a>
-    </div>
+      </div>
   </section>
 
   <section class="p-6 container mx-auto">
